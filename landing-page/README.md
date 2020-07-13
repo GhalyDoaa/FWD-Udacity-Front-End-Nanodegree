@@ -25,5 +25,5 @@ Most of the code here was taken from the skelton code provided by Udacity.
 ## running
 To launch this website, simply clone the repo and open the `index.html` file in the browser. 
 
-###Note  
+### Note  
 The comments //console.log is only for debug , uncomment them to review values
